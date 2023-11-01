@@ -1,1 +1,1 @@
-("Hellow From Darrick!")
+print ("Hellow From Darrick!")
