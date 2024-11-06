@@ -1,1 +1,1 @@
-Hello Hello from Joshua Bandong
+print("Hello Hello from Joshua Bandong")
