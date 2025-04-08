@@ -1,1 +1,1 @@
-My hello script
+print("Hello From Cody")
